@@ -37,7 +37,8 @@
  **git add 파일명** 과 **git commit -m "파일설명"** 까지 해줄것 
  여기까지 한 후 github에 연결을 해야하는데 그 명령어가
 
-### git remote add origin https://github.com/사용자명/저장소이름.git ### (보기에 뜸)
+### git remote add origin https://github.com/사용자명/저장소이름.git ### 
+(보기에 뜸)
 - README 파일을 온라인 저장소에 연결을 시켜줌
   이후 연결을 하면 온라인 저장소에 백업을 시켜줘야 하는데 그 명령어가
 
