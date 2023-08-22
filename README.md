@@ -45,5 +45,3 @@
 ### git push -u origin main ###
 - README 파일이 온라인 저장소에 연결이 되어 README 파일의 내용과
   커밋한 내용이 온라인 저장소에도 표기됨
-
-
