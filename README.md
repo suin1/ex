@@ -39,8 +39,7 @@
 
 ### git remote add origin https://github.com/사용자명/저장소이름.git ### (보기에 뜸)
 - README 파일을 온라인 저장소에 연결을 시켜줌
-
-이후 연결을 하면 온라인 저장소에 백업을 시켜줘야 하는데 그 명령어가
+  이후 연결을 하면 온라인 저장소에 백업을 시켜줘야 하는데 그 명령어가
 
 ### git push -u origin main ###
 - README 파일이 온라인 저장소에 연결이 되어 README 파일의 내용과
